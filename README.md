@@ -1,0 +1,2 @@
+# inheri
+a simple project
